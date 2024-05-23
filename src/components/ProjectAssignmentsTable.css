@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f2f2f2;
+  cursor: pointer;
+  /* Add this line to make the table headers clickable */
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
